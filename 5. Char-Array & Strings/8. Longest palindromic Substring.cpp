@@ -1,5 +1,5 @@
 // https://leetcode.com/problems/longest-palindromic-substring/
-
+//barely runs, use dp to optimise;
 class Solution {
 public:
     bool isPalindrome(string s, int i, int j){
